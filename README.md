@@ -1,4 +1,4 @@
-## Salve!! Sou o Emerson Willian 🖖
+## Olá!! Sou o Emerson Willian 🖖
 - 👨‍💻 Desenvolvedor FullStack Jr
 - 📚 Atualmente me especializando em backend
 
